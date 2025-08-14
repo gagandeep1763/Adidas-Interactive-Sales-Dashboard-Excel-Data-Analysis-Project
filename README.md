@@ -8,7 +8,7 @@ It is fully interactive with slicers, charts, and automated data updates.
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)  
+![Dashboard Preview](https://github.com/gagandeep1763/Adidas-Interactive-Sales-Dashboard-Excel-Data-Analysis-Project/blob/main/image%201.png?raw=true)
 *(Replace with actual image path if hosting on GitHub)*
 
 ---
