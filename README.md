@@ -32,7 +32,7 @@ It is fully interactive with slicers, charts, and automated data updates.
 ## 📂 Files Included
 - `Adidas_Interactive_Sales_Dashboard.xlsx` – Main Excel dashboard file.
 - `README.md` – Documentation file explaining the project.
-- `dashboard_screenshot.png` – Preview image of the dashboard.
+- `image1.png` – Preview image of the dashboard.
 
 ---
 
