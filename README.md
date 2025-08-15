@@ -1,4 +1,4 @@
-# Adidas Interactive Sales Dashboard – Excel Data Analysis Project
+# StrideMetrics – Adidas Sales Deep-Dive in Excel
 
 ## 📌 Overview
 This project demonstrates an **interactive sales analysis dashboard** for Adidas, created entirely in **Microsoft Excel**.  
